@@ -1,0 +1,13 @@
+.iconType-conten {
+  display: flex;
+  justify-content: center;
+}
+
+.poke-type-icon {
+  height: 50px;
+  width: 50px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}

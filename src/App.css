@@ -1,0 +1,12 @@
+.img-conter {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.img-big {
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 512px;
+  height: 512px;
+  z-index: -1;
+}

@@ -1,0 +1,39 @@
+.card{
+  background: linear-gradient(
+    to bottom,
+    #003A70,
+    #3D7DCA,
+    #FFCB05
+  ) !important;
+}
+.card-subtitle{
+  color: red !important;
+  font-weight: 900;
+}
+img {
+  width: 10%;
+}
+
+.pokemon-snap {
+  position: absolute;
+  width: 280px;
+  top: -90px;
+  z-index: 1;
+}
+
+.padd-card {
+  padding: 60px 0px;
+  min-height: 300px;
+}
+h3 {
+  color: #ff9741;
+  text-align: center;
+  text-shadow: #ff9741 0.1em 0.1em 0.2em;
+}
+h6 {
+  color: red;
+}
+
+.stats {
+  margin-top: 8px;
+}

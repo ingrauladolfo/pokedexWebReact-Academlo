@@ -1,0 +1,33 @@
+.login {
+  text-align: center;
+}
+
+.login-body {
+  background-image: linear-gradient(
+    to bottom,
+    #003A70,
+    #3D7DCA,
+    #FFCB05
+  );
+  background-color: #003A70;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  min-width: 100vw;
+  font-size: calc(10px + 2vmin);
+  color: green;
+}
+
+.pokeball {
+  width: 64px;
+  height: 64px;
+  z-index: 10;
+  background-color: #5da172;
+}
+
+h1 {
+  text-shadow: #5da172 0.1em 0.1em 0.2em;
+  color: #5da172 !important;
+}

@@ -1,0 +1,8 @@
+.pokeball {
+  width: 64px;
+  height: 64px;
+}
+.button-center {
+  display: flex;
+  justify-content: center;
+}
